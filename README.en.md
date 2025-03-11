@@ -8,12 +8,12 @@ I have over 10 years of experience as a graphic designer, now transitioning to a
 
 I have always been interested in technology and programming, and I am currently specializing in frontend and backend at the <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brazil</a> bootcamp, an intensive 10-month program. Before that, I completed a course by Dr. Angela Yu on <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, where I learned various essential technologies and tools for web development.
 
-#### During this journey, I am developing skills such as:
+**During this journey, I am developing skills such as:**
 
-- Frontend: HTML, CSS, responsiveness, BEM methodology, JavaScript, OOP, React, REST API consumption.
-- Backend: Node.js, Express, MongoDB, Mongoose, RESTful API development.
-- Extras: Version control with Git and GitHub.
-- Best practices: Clean and organized code, project structuring based on industry best practices.
+- **Frontend:** HTML, CSS, responsiveness, BEM methodology, JavaScript, OOP, React, REST API consumption.
+- **Backend:** Node.js, Express, MongoDB, Mongoose, RESTful API development.
+- **Extras:** Version control with Git and GitHub.
+- **Best practices:** Clean and organized code, project structuring based on industry best practices.
 
 My approach combines design and code, creating modern, responsive, and functional interfaces. I always seek to improve my skills and explore new technologies.
 
