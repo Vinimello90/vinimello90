@@ -21,7 +21,7 @@ My approach combines design and code, creating modern, responsive, and functiona
 
 HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,npm,vite,nodejs,express,mongodb,postgres,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,npm,vite,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
 
 ### 🛠️ Tools
 
@@ -29,7 +29,9 @@ Visual Studio Code • Figma • Adobe Photoshop
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
 
-### 🛠️ Contacts
+### 📬 Contacts
+
+[![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfolio-blue.svg?style=flat&logo=webpage-personal&logoColor=white&labelColor=gray)](#)
 
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=flat&logo=linkedin-brands&logoColor=white&labelColor=gray)](https://www.linkedin.com/in/vinicius-barretto-mello-2801402b0)
 
