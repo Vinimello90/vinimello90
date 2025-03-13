@@ -4,9 +4,9 @@
 
 ### 🚀 Sobre mim
 
-Tenho mais de 10 anos de experiência como designer gráfico, atualmente estou focado no desenvolvimento web fullstack.
+Tenho mais de 10 anos de experiência como designer gráfico, atualmente estou focado no **desenvolvimento web fullstack**.
 
-Sempre me interessei por tecnologia e programação e atualmente estou me especializando em frontend e backend no bootcamp <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brasil</a>, um programa intensivo de 10 meses. Antes disso, concluí um curso da Dra. Angela Yu na <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, onde aprendi diversas tecnologias e ferramentas essenciais para o desenvolvimento web.
+Sempre me interessei por tecnologia e programação e atualmente estou me especializando em **frontend** e **backend** no bootcamp <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brasil</a>, um programa intensivo de 10 meses. Antes disso, concluí um curso da Dra. Angela Yu na <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, onde aprendi diversas tecnologias e ferramentas essenciais para o desenvolvimento web.
 
 **Durante essa jornada, estou desenvolvendo habilidades como:**
 
@@ -19,13 +19,13 @@ Minha abordagem combina design e código, criando interfaces modernas, responsiv
 
 ### 💻 Tecnologias
 
-HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github
+_HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,npm,vite,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas
 
-Visual Studio Code • Figma • Adobe Photoshop
+_Visual Studio Code • Figma • Adobe Photoshop_
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
 
