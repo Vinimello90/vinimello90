@@ -4,9 +4,9 @@
 
 ### 🚀 About Me
 
-I have over 10 years of experience as a graphic designer, and I am currently focused on full-stack web development.
+I have over 10 years of experience as a graphic designer, and I am currently focused on **full-stack web development**.
 
-I have always been interested in technology and programming, and I am currently specializing in frontend and backend at the <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brazil</a> bootcamp, an intensive 10-month program. Before that, I completed a course by Dr. Angela Yu on <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, where I learned various essential technologies and tools for web development.
+I have always been interested in technology and programming, and I am currently specializing in **frontend** and **backend** at the <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brazil</a> bootcamp, an intensive 10-month program. Before that, I completed a course by Dr. Angela Yu on <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, where I learned various essential technologies and tools for **web development**.
 
 **During this journey, I am developing skills such as:**
 
@@ -19,13 +19,13 @@ My approach combines design and code, creating modern, responsive, and functiona
 
 ### 💻 Technologies
 
-HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github
+_HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,npm,vite,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
 
 ### 🛠️ Tools
 
-Visual Studio Code • Figma • Adobe Photoshop
+_Visual Studio Code • Figma • Adobe Photoshop_
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
 
