@@ -32,6 +32,6 @@ _Visual Studio Code • Figma • Adobe Photoshop_
 ### 📬 Contatos
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfolio-lightyellow.svg?style=flat&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
-[![portfolio Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=flat&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=flat&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://www.linkedin.com/in/vinicius-barretto-mello-2801402b0)
 [![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
+[![portfolio Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=flat&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
