@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I have over 10 years of experience as a graphic designer, and I am currently focused on **full-stack web development**.
+I have over 14 years of experience as a graphic designer, and I am currently focused on **full-stack web development**.
 
 I have always been interested in technology and programming, and I am currently specializing in **frontend** and **backend** at the <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brazil</a> bootcamp, an intensive 10-month program. Before that, I completed a course by Dr. Angela Yu on <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, where I learned various essential technologies and tools for **web development**.
 
