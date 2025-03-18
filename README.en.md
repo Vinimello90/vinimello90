@@ -15,7 +15,7 @@ I have always been interested in technology and programming, and I am currently 
 - **Extras:** Version control with Git and GitHub.
 - **Best practices:** Clean and organized code, project structuring based on industry best practices.
 
-My approach combines design and code, creating modern, responsive, and functional interfaces. I always seek to improve my skills and explore new technologies.
+My approach combines design with clean and organized code, based on the best practices in the market, creating modern, responsive, and functional interfaces. I am always looking to improve my skills and explore new technologies.
 
 ### 💻 Technologies
 
