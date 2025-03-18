@@ -15,7 +15,7 @@ Sempre me interessei por tecnologia e programação e atualmente estou me especi
 - **Extras:** controle de versão com Git e GitHub.
 - **Boas práticas:** Código limpo e organizado, estruturação de projetos com base nas melhores práticas do mercado.
 
-Minha abordagem combina design e código, criando interfaces modernas, responsivas e funcionais. Busco sempre melhorar minhas habilidades e explorar novas tecnologias.
+Minha abordagem combina design com código limpo e organizado, com base nas melhores práticas do mercado, criando interfaces modernas, responsivas e funcionais. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
 
 ### 💻 Tecnologias
 
