@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md) [![pt-br](https://img.shields.io/badge/lang-en-red.svg)](./README.pt_br.md)
 
 # Olá! 👋 Seja bem-vindo, sou Vinicius!
 
