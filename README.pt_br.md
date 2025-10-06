@@ -38,9 +38,11 @@ _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=jquery" />
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=angular" />
   <img src="https://skillicons.dev/icons?i=npm" />
   <img src="https://skillicons.dev/icons?i=vite" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
