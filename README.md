@@ -67,7 +67,7 @@ _Visual Studio Code • Figma • Adobe Photoshop_
   />
 <img 
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Technologies" 
     height="200"
   />
   </p>
