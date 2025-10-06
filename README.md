@@ -52,12 +52,10 @@ _HTML • CSS • Bootstrap • TypeScript • JavaScript • jQuery • React �
 <img 
     src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr" 
     height="200" 
-    style="vertical-align: top" 
   />
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Technologies" 
-    height="150"
-    style="vertical-align: top" 
+    height="200"
   />
 
 ### 🛠️ Tools

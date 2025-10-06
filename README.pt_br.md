@@ -49,14 +49,12 @@ _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite
 </div>
 <br>
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr&custom_title=Estatísticas do GitHub de Vinimello90" 
+    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr&locale=pt-br" 
     height="200" 
-    style="vertical-align: top" 
   />
 <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
-    height="150"
-    style="vertical-align: top" 
+    height="200"
   />
 
 ### 🛠️ Ferramentas
