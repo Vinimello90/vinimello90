@@ -4,34 +4,63 @@
 
 ### 🚀 Sobre mim
 
-Tenho mais de 14 anos de experiência como designer gráfico, atualmente estou focado no **desenvolvimento web fullstack**.
+Tenho experiência como designer gráfico e estou em transição para o **desenvolvimento**, unindo criatividade e tecnologia para construir aplicações modernas e funcionais. Me formei no bootcamp <a target="_blank" href="https://tripleten.com">TripleTen</a>, um programa intensivo de **Software Engineering**, onde adquiri uma base sólida em desenvolvimento. Antes disso, concluí um curso da Dra. Angela Yu na <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, que me apresentou ao ecossistema completo do **desenvolvimento web**, permitindo compreender desde os fundamentos até frameworks modernos.
 
-Sempre me interessei por tecnologia e programação e atualmente estou me especializando em **frontend** e **backend** no bootcamp <a target="_blank" href="https://tripleten.com/pt-bra/web/meet/">TripleTen Brasil</a>, um programa intensivo de 10 meses. Antes disso, concluí um curso da Dra. Angela Yu na <a target="_blank" href="https://www.udemy.com/course/the-complete-web-development-bootcamp">Udemy</a>, onde aprendi diversas tecnologias e ferramentas essenciais para o **desenvolvimento web**.
+**Durante essa jornada, desenvolvi e aprimorei habilidades como:**
 
-**Durante essa jornada, estou desenvolvendo habilidades como:**
-
-- **Frontend:** HTML, CSS, responsividade, metodologia BEM, JavaScript, POO, React, consumo de APIs REST.
+- **Frontend:** HTML, CSS, responsividade, metodologia BEM, JavaScript, TypeScript, POO, React, Angular, consumo de APIs REST.
 - **Backend:** Node.js, Express, MongoDB, Mongoose, desenvolvimento de APIs RESTful.
-- **Extras:** controle de versão com Git e GitHub.
+- **Extras:** Controle de versão com Git e GitHub, NPM, Vite, uso de bibliotecas modernas e integração de ferramentas em fluxos de trabalho ágeis.
 - **Boas práticas:** Código limpo e organizado, estruturação de projetos com base nas melhores práticas do mercado.
 
-Minha abordagem combina design com código limpo e organizado, com base nas melhores práticas do mercado, criando interfaces modernas, responsivas e funcionais. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
+**Atualmente, estou focado em:**
+
+- 📚 Aprofundar meus conhecimentos.
+- 🚀 Desenvolver aplicações do frontend ao backend, com performance e qualidade profissional.
+
+✨ Minha abordagem combina design com código limpo e organizado, com base nas melhores práticas do mercado, criando interfaces modernas, responsivas e funcionais. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
+
+### 📬 Contatos
+
+[![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfólio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=for-the-badge&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://linkedin.com/in/vinicius-barretto-mello)
+[![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
+[![whatsapp Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
 
 ### 💻 Tecnologias
 
 _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,npm,vite,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=jquery" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</div>
+<br>
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr&custom_title=Estatísticas do GitHub de Vinimello90" 
+    height="200" 
+    style="vertical-align: top" 
+  />
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
+    height="150"
+    style="vertical-align: top" 
+  />
 
 ### 🛠️ Ferramentas
 
 _Visual Studio Code • Figma • Adobe Photoshop_
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
-
-### 📬 Contatos
-
-[![portfólio Badge](https://custom-icon-badges.demolab.com/badge/Portfólio-lightyellow.svg?style=flat&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
-[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=flat&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://linkedin.com/in/vinicius-barretto-mello)
-[![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
-[![whatsapp Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=flat&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
