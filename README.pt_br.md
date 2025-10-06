@@ -23,11 +23,13 @@ Tenho experiência como designer gráfico e estou em transição para o **desenv
 ### 📬 Contatos
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfólio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
-[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=for-the-badge&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://linkedin.com/in/vinicius-barretto-mello)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=for-the-badge&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://linkedin.com/in/vinicius-barretto-mello)<br/>
 [![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
 [![whatsapp Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
 
-### 💻 Tecnologias
+---
+
+### 💻 Tecnologias e Ferramentas
 
 _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
@@ -48,17 +50,23 @@ _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite
   <img src="https://skillicons.dev/icons?i=github" />
 </div>
 <br>
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr&locale=pt-br" 
-    height="200" 
-  />
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
-    height="200"
-  />
-
-### 🛠️ Ferramentas
 
 _Visual Studio Code • Figma • Adobe Photoshop_
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
+
+### 📊 Estatísticas
+
+<p>
+<img 
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr&locale=pt-br" 
+    height="200"
+    style="padding-right: 10px;" 
+  />
+<img 
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
+    height="200"
+  />
+  </p>
