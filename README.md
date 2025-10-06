@@ -24,6 +24,7 @@ I have experience as a **graphic designer** and I am currently transitioning int
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfolio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
 [![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Vinicius_Barretto_Mello-blue.svg?style=for-the-badge&logo=linkedin-brands&logoColor=white&labelColor=darkblue)](https://linkedin.com/in/vinicius-barretto-mello)
+<br/>
 [![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
 [![whatsapp Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
 
