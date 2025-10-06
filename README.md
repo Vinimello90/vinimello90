@@ -20,6 +20,8 @@ I have experience as a **graphic designer** and I am currently transitioning int
 
 ✨ My approach combines design with clean and organized code, following industry best practices to create modern, responsive, and functional interfaces. I am always seeking to improve my skills and explore new technologies.
 
+---
+
 ### 📬 Contacts
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfolio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
@@ -27,7 +29,9 @@ I have experience as a **graphic designer** and I am currently transitioning int
 [![Gmail Badge](https://img.shields.io/badge/vinicius.barretto9022%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=darkred)](mailto:vinicius.barretto9022@gmail.com)
 [![whatsapp Badge](https://custom-icon-badges.demolab.com/badge/17_99248_7641-lightgreen.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=darkgreen)](https://wa.me/5517992487641)
 
-### 💻 Technologies
+---
+
+### 💻 🛠️ Technologies & Tools
 
 _HTML • CSS • Bootstrap • TypeScript • JavaScript • jQuery • React • Angular • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
@@ -49,17 +53,22 @@ _HTML • CSS • Bootstrap • TypeScript • JavaScript • jQuery • React �
 </div>
 <br>
 
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr" 
-    height="200" 
-  />
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Technologies" 
-    height="200"
-  />
-
-### 🛠️ Tools
-
 _Visual Studio Code • Figma • Adobe Photoshop_
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,photoshop)](https://skillicons.dev)
+
+### 📊 Stats
+
+<p>
+<img 
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=vinimello90&show_icons=true&theme=codeSTACKr" 
+    height="200"
+    style="padding-right: 10px;" 
+  />
+<img 
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimello90&layout=compact&theme=codeSTACKr&custom_title=Tecnologias" 
+    height="200"
+  />
+  </p>

@@ -20,6 +20,8 @@ Tenho experiência como designer gráfico e estou em transição para o **desenv
 
 ✨ Minha abordagem combina design com código limpo e organizado, com base nas melhores práticas do mercado, criando interfaces modernas, responsivas e funcionais. Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias.
 
+---
+
 ### 📬 Contatos
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfólio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
@@ -29,7 +31,7 @@ Tenho experiência como designer gráfico e estou em transição para o **desenv
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 🛠️ Tecnologias & Ferramentas
 
 _HTML • CSS • Bootstrap • JavaScript • jQuery • React • npm • Vite • Node.js • Express • MongoDB • PostgreSQL • Git • Github_
 
