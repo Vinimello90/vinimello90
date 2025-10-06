@@ -20,8 +20,6 @@ I have experience as a **graphic designer** and I am currently transitioning int
 
 ✨ My approach combines design with clean and organized code, following industry best practices to create modern, responsive, and functional interfaces. I am always seeking to improve my skills and explore new technologies.
 
----
-
 ### 📬 Contacts
 
 [![portfolio Badge](https://custom-icon-badges.demolab.com/badge/Portfolio-lightyellow.svg?style=for-the-badge&logo=webpage-personal&logoColor=white&labelColor=yellow)](https://vinimello90.github.io/portfolio/)
